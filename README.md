@@ -65,11 +65,3 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/SiWahyu/SiWahyu/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=SiWahyu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
